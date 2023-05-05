@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">Python Backend developer from Moscow</h3>
 
-- 🌱 I’m currently learning: **Django, Vk_api**
+- 🌱 I’m currently learning: **Django, Flask**
 
-- 📫 How to reach me: **daniliesaec@gmail.com**
-
-- 📄 Know about my experiences: **6 mouth as software developer**
+- 📄 Know about my experiences: **9 mouth as software developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
