@@ -1,7 +1,7 @@
 
-- 🌱 I’m currently learning: **Django, Flask**
+- 🌱 I’m currently learning: **Flask**
 
-- 📄 Know about my experiences: **9 mouth as software developer**
+- 📄 Know about my experiences: **11 mouth as backend developer**
 
 
 <h3 align="left">Languages and Tools:</h3>
