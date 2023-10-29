@@ -4,3 +4,5 @@
 - Codewars [https://www.codewars.com/users/Tework123](https://www.codewars.com/users/Tework123)
 
 ![micro](https://github.com/Tework123/Tework123/assets/115368408/ad392e0d-2e30-4800-8d76-0d8582ee179a)
+
+<a href="https://www.codewars.com/users/Tework123" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/Tework123/badges/micro" alt="codewars" width="40" height="40"/> </a>
